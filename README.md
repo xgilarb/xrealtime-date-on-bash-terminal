@@ -1,7 +1,7 @@
 # xrealtime-date-on-bash-terminal
 ### This script is to be installed inside .bashrc to spawn
 
-Writing like the following:
+It will displayed like this on your terminal:
 
 ```bash
 ▒██   ██▒ ██▓███ ▓██   ██▓ ███▄    █  ██▓ ███▄ ▄███▓
