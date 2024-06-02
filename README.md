@@ -25,7 +25,7 @@ Please start tweaking it, adjust it to your liking.<br>
 For the ASCII art text, I used the [text to ASCII art generator](https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20) with bloody-font, please use that too, and change<br>
 the ASCII art text to the text you want to display in your terminal.<br>
 
-To terminate the script use ctrl+z (start using bash in terminal)
+To terminate the script use ctrl+z (it will start bash ready-to-use on terminal)
 
 Make sure to copy the entire block on [code.sh](code.sh) into your .bashrc file. Just put it on the bottom line,<br>
 so it doesn't interfere with other code<br>
