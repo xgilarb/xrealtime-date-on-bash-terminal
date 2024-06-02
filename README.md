@@ -15,7 +15,7 @@ It will displayed like this on your terminal:
  ░    ░          ░ ░              ░  ░         ░
                  ░ ░
     
-02-06-2024 || Ōita-shi at 20:25:45 & Bandung at 18:25:45 |> press C-z to start <br>
+02-06-2024 || Ōita-shi at 20:25:45 & Bandung at 18:25:45 |> press C-z to start
 ```
 
 And the time will move (change every 1 second) in real-time<br>
