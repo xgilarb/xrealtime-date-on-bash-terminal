@@ -2,6 +2,7 @@
 ## This script is to be installed inside .bashrc to spawn
 writing like the following:
 
+```bash
 ▒██   ██▒ ██▓███ ▓██   ██▓ ███▄    █  ██▓ ███▄ ▄███▓
 ▒▒ █ █ ▒░▓██░  ██▒██  ██▒ ██ ▀█   █ ▓██▒▓██▒▀█▀ ██▒
 ░░  █   ░▓██░ ██▓▒▒██ ██░▓██  ▀█ ██▒▒██▒▓██    ▓██░
@@ -14,6 +15,7 @@ writing like the following:
                  ░ ░
     
 02-06-2024 || Ōita-shi at 20:25:45 & Bandung at 18:25:45 |> press C-z to start <br>
+```
 
 and the time will move (change every 1 second) in real-time<br>
 
