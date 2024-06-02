@@ -14,7 +14,7 @@ realtime_clock() {
                      ░ ░
     "
 
-    trap 'clear; printf "\n"; return' SIGTSTP
+    trap 'clear; return' SIGTSTP
     while true; do
 		date_only=$(TZ=Asia/Tokyo date '+%d-%m-%Y')
         date_oita=$(TZ=Asia/Tokyo date '+%H:%M:%S')
