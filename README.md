@@ -26,5 +26,5 @@ the ASCII art text to the text you want to display in your terminal.<br>
 
 # To terminate the script use ctrl+z (start using bash in terminal)
 
-Make sure to copy this entire block into your .bashrc file. It includes the ASCII art, the text,<br>
-and the instructions for using Ctrl+Z to terminate the script.<br>
+Make sure to copy this entire block into your .bashrc file. Just put it on the bottom line,<br>
+so it doesn't interfere with other code<br>
