@@ -27,5 +27,5 @@ the ASCII art text to the text you want to display in your terminal.<br>
 
 To terminate the script use ctrl+z (start using bash in terminal)
 
-Make sure to copy this entire block on [code.sh](code.sh) into your .bashrc file. Just put it on the bottom line,<br>
+Make sure to copy the entire block on [code.sh](code.sh) into your .bashrc file. Just put it on the bottom line,<br>
 so it doesn't interfere with other code<br>
