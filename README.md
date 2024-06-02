@@ -28,4 +28,4 @@ the ASCII art text to the text you want to display in your terminal.<br>
 To terminate the script use ctrl+z (it will start bash ready-to-use on your terminal)
 
 Make sure to copy the entire block on [code.sh](code.sh) into your .bashrc file. Just put it on the bottom line,<br>
-so it doesn't interfere with other code, and make sure you run `source `/.bashrc` after that.<br>
+so it doesn't interfere with other code, and make sure you run `source ~/.bashrc` after that.<br>
